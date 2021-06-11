@@ -1,0 +1,59 @@
+
+
+body{
+    font-family: 'Patrick Hand SC', cursive;
+    background: url("https://b.rgbimg.com/users/x/xy/xymonau/300/ow1APN4.jpg");
+    background-position: center;
+    background-size: cover;
+    font-size: 25px;
+    color: blue;
+}
+body{
+    margin-left: 6px;  
+    margin-right: 6px;  
+    margin-bottom: 6px;  
+    margin-top: 6px;  
+    border: solid 6px rgb(0, 0, 0);   ;
+
+
+}
+
+
+#title{
+      
+        font-size: 40px;
+        
+}
+
+.heading{
+    font-family: 'Patrick Hand SC', cursive;
+    font-size: 40px;
+    color:blue ;
+}
+
+#img{
+    width: 40;
+    height: 40;
+}
+
+hr {
+    border-top: 2px dashed rgb(0, 0, 0);
+    margin-left:  12px; ;
+    margin-right: 12px; ;
+    
+
+  }
+
+  #Display_Guest{
+      border-radius: 90px;
+      border-color: darkblue;
+  }
+
+  #Search{
+    border-radius: 90px;
+    border-color: darkblue;
+}
+
+
+
+  
